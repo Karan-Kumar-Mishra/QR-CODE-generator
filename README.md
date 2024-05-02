@@ -2,7 +2,7 @@ In this software we can make QR code of text,pdf file, text file and url and man
 
 #Download
   
-click below link for download application 
+click below link for download application <br>
 https://drive.google.com/file/d/1qTq5XIQ-ewB7UolQ_Gm_PAywnVmQqwhe/view?usp=sharing
 
 ![Screenshot (111)](https://github.com/Karan-Kumar-Mishra/QR-CODE-generator/assets/93134411/053c75c4-3ee2-4d34-8138-e08e2f7f9278)
