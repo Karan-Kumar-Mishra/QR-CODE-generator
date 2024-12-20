@@ -1,4 +1,5 @@
-![black and blue combination logo for a QR code generator](https://github.com/user-attachments/assets/281a415d-e498-4fd3-bfaa-7c1c1f33e7a7)
+<img hight="80vh" src="
+![black and blue combination logo for a QR code generator](https://github.com/user-attachments/assets/281a415d-e498-4fd3-bfaa-7c1c1f33e7a7)">
 
 In this software we can make QR code of text,pdf file, text file and url and many more.  This software run in GUI mode  
 
