@@ -13,10 +13,13 @@ import requests
 import time
 from plyer import notification
 
+
+
 karan=tk.Tk()
 karan.geometry("1600x800")
 karan.title("QR code generator")
 karan['bg']='#73a5ff'
+
 text1=tk.Text(karan,wrap=tk.WORD,width=50,height=30,fg="white",bg="black")
 text1.place(x=10,y=10)
 
